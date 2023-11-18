@@ -474,6 +474,12 @@ footer {
   right: 0px;
 }
 
+.smedia img {
+  width: 33px;
+  height: 33px;
+  margin-left: 35px;
+}
+
 a {
   text-decoration: none;
 }
