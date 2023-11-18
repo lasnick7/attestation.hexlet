@@ -136,13 +136,13 @@ section {
 
 .aboutme {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   background-color: rgba(67, 186, 253, 0.06);
 }
 
 .smth1 {
-  width: 780px;
-  height: 780px;
+  width: 800px;
+  height: 800px;
 }
 
 .left-side-aboutme {
