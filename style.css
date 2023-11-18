@@ -34,12 +34,12 @@ body {
 .wrap {
   display: flex;
   align-items: center;
+  position: relative;
 }
 
 .nav {
-  text-align: right;
-  margin-left: auto;
-  margin-right: 40px;
+  position: absolute;
+  right: 40px;
 }
 
 .nav-ul {
