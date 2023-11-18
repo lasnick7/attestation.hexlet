@@ -149,6 +149,11 @@ section {
   padding-left: 40px;
 }
 
+.right-side-aboutme {
+  text-align: right;
+  margin-left: auto;
+}
+
 .left-side-aboutme h2 {
   font-size: 48px;
   line-height: 72px;
