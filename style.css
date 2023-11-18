@@ -458,6 +458,7 @@ pre {
   font-size: 25px;
   font-weight: 400;
   margin-left: 20px;
+  position: relative;
 }
 
 footer p {
@@ -469,13 +470,8 @@ footer {
 }
 
 .smedia {
-  margin-left: 300px;
-}
-
-.smedia img {
-  width: 33px;
-  height: 33px;
-  margin-left: 35px;
+  position: absolute;
+  right: 35px;
 }
 
 a {
