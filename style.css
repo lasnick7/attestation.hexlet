@@ -477,6 +477,9 @@ footer {
 .smedia img {
   width: 30px;
   height: 30px;
+}
+
+.smedia a {
   margin-left: 35px;
 }
 
