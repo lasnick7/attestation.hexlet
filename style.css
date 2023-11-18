@@ -136,6 +136,7 @@ section {
 
 .aboutme {
   display: flex;
+  justify-content: space-between;
   background-color: rgba(67, 186, 253, 0.06);
 }
 
